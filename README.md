@@ -55,7 +55,7 @@ These baselines are provided to analyze the respective roles of raw and equalize
 ### CDFNet (raw + eq)
 The CDFNet implementation will be released after the associated paper is accepted.
 
-### License
+## License
 
 ```
 This project is distributed under a custom non-commercial license. Any form of commercial use is prohibited.
