@@ -1,7 +1,7 @@
 # Confidence-Aware Dynamic Fusion for Robust Radio Frequency Fingerprinting
 
 ## Overview
-This repository provides a research-oriented implementation framework for **cross-domain radio frequency fingerprinting (RFF)** under receiver and channel variations.
+This repository provides a research-oriented implementation framework for **robust cross-domain radio frequency fingerprinting (RFF)** under receiver and channel variations.
 
 The codebase includes:
 - Baseline PatchNet models using raw or channel-equalized IQ signals
