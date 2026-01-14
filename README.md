@@ -1,6 +1,4 @@
-# Confidence-Aware Dynamic Fusion Network for Cross-Domain Radio Frequency Fingerprinting
-
-<img width="906" height="234" alt="image" src="https://github.com/user-attachments/assets/0f4f8c7f-0a6e-47ce-9600-d94d9d3ffebc" />
+# Confidence-Aware Dynamic Fusion for Robust Radio Frequency Fingerprinting
 
 ## Overview
 This repository provides a research-oriented implementation framework for **cross-domain radio frequency fingerprinting (RFF)** under receiver and channel variations.
