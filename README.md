@@ -1,13 +1,13 @@
 # Confidence-Aware Dynamic Fusion for Robust Radio Frequency Fingerprinting
 
 ## Overview
-This repository provides a research-oriented implementation framework for **robust cross-domain radio frequency fingerprinting (RFF)** under receiver and channel variations.
+This repository provides a research-oriented implementation framework for **robust radio frequency fingerprinting (RFF)** under receiver and channel variations.
 
 The codebase includes:
 - Baseline PatchNet models using raw or channel-equalized IQ signals
 - Experimental scripts following standard cross-receiver and cross-channel evaluation protocols
 
-The proposed **Confidence-Aware Dynamic Fusion Network (CDFNet)** is part of an ongoing research work and is **not yet released**.
+The proposed **Confidence-Aware Dynamic Fusion (CDF)** is part of an ongoing research work and is **not yet released**.
 
 ---
 
@@ -50,8 +50,8 @@ python main.py --train_date 1 2 3 --test_round 0 --use_eq
 
 These baselines are provided to analyze the respective roles of raw and equalized signal representations in cross-domain RFF.
 
-### CDFNet (raw + eq)
-The CDFNet implementation will be released after the associated paper is accepted.
+### CDF (raw + eq)
+The CDF implementation will be released after the associated paper is accepted.
 
 ## License
 
